@@ -1,2 +1,9 @@
+flask
 gunicorn
-
+python-dotenv
+groq
+langchain
+langchain-groq
+pypdf
+chromadb
+sentence-transformers
